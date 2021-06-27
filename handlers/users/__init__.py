@@ -1,3 +1,3 @@
-from .purchase import dp
+from .info import dp
 
 __all__ = ["dp"]
